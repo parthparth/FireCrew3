@@ -24,7 +24,7 @@ Config::Set('BID_EXPIRE_TIME', '48');
 * You are good to go!
 
 # Contact
-If you have any comments, queries or suggestions, please feel free to email me at hiparthparth@gmail.com
+If you have any comments, queries or suggestions, please feel free to open an issue.
 
-© Parth Parth 2019. hiparthparth@gmail.com
-# This project is no longer being actively maintained. Please email me if you enounter any security vulnerabilities.
+© Parth Parth 2020
+# This project is no longer being actively maintained.
